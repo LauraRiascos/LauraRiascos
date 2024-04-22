@@ -63,6 +63,6 @@
   <a href="https://www.facebook.com/laura.riascosballestas/"><img alt="Faceebook" title="Laura's Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
   <a href="www.linkedin.com/in/laura-web-design"><img alt="Linkedin" title="Laura's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/lau.codes/?igsh=ZGl5eDQzaG8wNmli"><img alt="Instagram" title="Laura's Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    <a href="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"><img alt="Behance" title="Laura's Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+  <a href="https://www.behance.net/laurariascos6"><img alt="Behance" title="Laura's Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
 </p>
 <hr/>
