@@ -17,7 +17,7 @@
 
 <h3> 📆 &nbsp;I'm currently </h3>
 
-### :clipboard: Working as a web content designer at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
+ - Working as a web content designer at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
 <hr/>
 
 <h3> ⚙️ &nbsp;Languages and Tools</h3>
