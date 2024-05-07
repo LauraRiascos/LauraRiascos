@@ -13,11 +13,15 @@
 
 - 📫 How to reach me **laura.riascosb@gmail.com**
 <hr/>
-<!-- Capabilities -->   
+<!-- Capabilities --> 
+
+##  :calendar: I'm currently  ...
+### :clipboard: Working:
+ - As a web content designer at [@UniversidadPontificiaBolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
+
 <h3 align="center"> ⚙️ &nbsp;Languages and Tools</h3>
 <p align="left">
-### :clipboard: Working:
- - As a Android Software Engineer at [@Ifood](https://www.linkedin.com/company/ifood)
+
   <div>
     <h4> 🖥️ &nbsp;Frontend</h4>
     <a><img alt="JS" title="JavaScript Logo" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
