@@ -1,4 +1,8 @@
 <!--HEADER -->
+<div align="center">
+  <img src="./gif/laura.gif" src="Laura's Banner" width="100%">
+</div>
+
 <h1 align="center">Hi there 👋, I'm Laura</h1>
 <h3 align="center">I’m a web designer who loves creating content for virtual education. I’m from Medellín, Colombia</h3>
 
