@@ -15,12 +15,12 @@
 <hr/>
 <!-- Capabilities --> 
 
-<h3 align="center"> 📆 &nbsp;I'm currently </h3>
+<h3> 📆 &nbsp;I'm currently </h3>
 
 ### :clipboard: Working:
- - As a web content designer at [@UniversidadPontificiaBolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
+ - As a web content designer at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
 
-<h3 align="center"> ⚙️ &nbsp;Languages and Tools</h3>
+<h3> ⚙️ &nbsp;Languages and Tools</h3>
 <p align="left">
 
   <div>
