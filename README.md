@@ -5,8 +5,6 @@
 
 <h3 align="center">I’m a web designer who loves creating content for virtual education. I’m from Medellín, Colombia</h3>
 
-- 🔭 I’m currently work as a **web content designer** at UPB Virtual
-
 - 🌱 I’m currently learning **instructional design and technology for the society**
 
 - 💬 Ask me about **ux/ui**
@@ -17,7 +15,7 @@
 
 <h3> 📆 &nbsp;I'm currently </h3>
 
- - Working as a web content designer at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
+ - Working as a **web content designer** at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
 <hr/>
 
 <h3> ⚙️ &nbsp;Languages and Tools</h3>
