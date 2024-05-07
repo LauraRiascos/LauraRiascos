@@ -15,7 +15,8 @@
 <hr/>
 <!-- Capabilities --> 
 
-##  :calendar: I'm currently  ...
+<h3 align="center"> 📆 &nbsp;I'm currently </h3>
+
 ### :clipboard: Working:
  - As a web content designer at [@UniversidadPontificiaBolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
 
