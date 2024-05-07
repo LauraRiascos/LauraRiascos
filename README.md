@@ -5,17 +5,15 @@
 
 <h3 align="center">I’m a web designer who loves creating content for virtual education. I’m from Medellín, Colombia</h3>
 
-- 🌱 I’m currently learning **instructional design and technology for the society**
-
-- 💬 Ask me about **ux/ui**
-
-- 📫 How to reach me **laura.riascosb@gmail.com**
 <hr/>
-<!-- Capabilities --> 
+<!-- Capabilities -->
 
 <h3> 📆 &nbsp;I'm currently </h3>
 
- - Working as a **web content designer** at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/) 
+- 📎 Working as a **web content designer** at [Universidad Pontificia Bolivariana](https://www.linkedin.com/school/universidad-pontificia-bolivariana/mycompany/)
+- 🌱 Learning **instructional design and technology for the society**
+- 💬 Ask me about **ux/ui**
+- 📫 How to reach me **laura.riascosb@gmail.com**
 <hr/>
 
 <h3> ⚙️ &nbsp;Languages and Tools</h3>
@@ -49,7 +47,9 @@
 <hr/>
 
 <!-- Github activity -->
+
 ### 📊 &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/LauraRiascos">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LauraRiascos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
