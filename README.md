@@ -41,13 +41,6 @@
     <a><img alt="Lightroom" title="Lightroom Logo" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
   </div>
 
-   <div>
-    <h4> 📦 &nbsp; Others</h4>
-    <a><img alt="Adobe Illustrator" title="Adobe Illustrator" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
-    <a><img alt="Adobe Photoshop" title="Adobe Photoshop Logo" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
-  </div>
-  
-
   <div>
     <h4> 👩🏻‍🎓 Currently studying</h4>
     <a><img alt="Docker" title="Docker Logo" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white"></a>
